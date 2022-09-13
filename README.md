@@ -184,7 +184,7 @@
 4 | [Dicky Nur Arifin](https://github.com/Dna2961/2223-IF217A02-sig.git) | | 
 5 | [Nurul Aulia Dewi](https://github.com/NurulAuliaDewi/2223-IF217A02-sig) | | 
 6 | [Ghilba Qinthara Djodha](https://github.com/ghilba/2223-IF217A02-sig) | | 
-7 | []() | | 
+7 | [Nita Amalia](https://github.com/nitaaml-na/2223-IF217A02-sig) | | 
 8 | []() | | 
 9 | []() | | 
 10 | []() | | 
